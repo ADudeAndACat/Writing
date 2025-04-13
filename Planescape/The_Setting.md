@@ -1,0 +1,1 @@
+The main setting is that of D&D's Planescape Campaign setting.  It takes place some time after the events of the Faction War and other official setting events (from modules, etc.).
