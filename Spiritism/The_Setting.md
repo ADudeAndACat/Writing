@@ -1,0 +1,1 @@
+The world that this setting takes place in incorporates interpretations of Spiritism as real.
