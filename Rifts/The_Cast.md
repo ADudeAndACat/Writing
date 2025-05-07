@@ -4,7 +4,7 @@ Remain faithful to the game and setting mechanics for the current Rifts RPG syst
 
 **Daniel** -- Male human Shifter OCC.
 
-**Emerald** -- Female dragon RCC.  Royal Fringed Dragon hatchling.  "Emmy" to friends.
+**????** -- Female dragon RCC.   ???? Dragon hatchling.
 
 # Supporting Characters
 
