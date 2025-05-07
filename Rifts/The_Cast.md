@@ -2,10 +2,10 @@ Remain faithful to the game and setting mechanics for the current Rifts RPG syst
 
 # Protagonist Characters
 
-**Daniel** -- Male human Shifter OCC.
+**Daniel** -- Male human Shifter OCC.  Scrupulous.  
 
-**????** -- Female dragon RCC.   ???? Dragon hatchling.
+**Emerald** -- Female dragon hatchling RCC.  Unprincipled.  
 
 # Supporting Characters
 
-**Dr. Chrome** -- Male human Cyper-Doc OCC.
+**Dr. Chrome** -- Male human Cyper-Doc OCC.  Aberrant.  
