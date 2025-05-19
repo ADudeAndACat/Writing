@@ -1,15 +1,15 @@
 I will be making an effort to remain faithful to the game and setting mechanics for the current D&D Fifth Edition system in creating and portraying the characters.  
 
 # Protagonist Characters
-**Glenn** -- Male human cleric.  Domain of Light.  A native from the Prime Material Plane where Estehpab and Razafizle were hiding Dolores.
+**Glenn** -- 3rd level male human cleric.  Domain of Light.  A native from the Prime Material Plane where Estehpab and Razafizle were hiding Dolores.
 
-**Razafizle** -- Male tiefling wizard.  Order of Scribes.  His familiar is a mimic that is also his spellbook, which he simply calls "Book".
+**Razafizle** -- 3rd level male tiefling wizard.  Order of Scribes.  His familiar is a mimic that is also his spellbook, which he simply calls "Book".
 
-**Spindel** -- Female aasimar rogue.  Arcane Trickster.  
+**Spindel** -- 3rd level male aasimar rogue.  Arcane Trickster.  
 
-**Tobin** -- Male bariaur barbarian.  
+**Tobin** -- 3rd level male bariaur barbarian.  
 
-**Box** -- Rogue modron bard.  College of Lore.  Gained independence after getting lost in Pandemonium during a past Great Modron March.
+**Box** -- 3rd level rogue modron bard.  College of Lore.  Gained independence after getting lost in Pandemonium during a past Great Modron March.
 
 # Supporting Characters
 **Dolores** -- Female human sorceress.  Her true nature and the extent of her abilities is unknown.  She has some power over portals, sensing their presence and connections, even able to open many of them without keys.  She is a product of Estephab's magic combining blood from Aoskar and other planar artifacts.  Her contact with planar keystones gives her power related to that plane, including the ability to change or make portals connected to them.
