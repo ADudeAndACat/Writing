@@ -8,4 +8,4 @@ Remain faithful to the game and setting mechanics for the current Rifts RPG syst
 
 # Supporting Characters
 
-**Dr. Chrome** -- Male human Cyper-Doc OCC.  Aberrant.  
+**Dr. Chrome** -- Male human Cyper-Doc OCC.  Aberrant.
