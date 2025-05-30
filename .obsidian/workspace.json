@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rifts/The_Cast.md",
+                "file": "Rifts/Locations/Charons_Crossing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The_Cast"
+              "title": "Charons_Crossing"
             }
           }
         ]
@@ -161,6 +161,8 @@
   },
   "active": "38ab9ac921455131",
   "lastOpenFiles": [
+    "Rifts/The_Cast.md",
+    "Rifts/Locations/Charons_Crossing.md",
     "example_processed.md",
     "README.md",
     "sample_markdown.md",
