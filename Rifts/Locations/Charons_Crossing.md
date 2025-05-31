@@ -10,13 +10,7 @@ The town of Charon's Crossing is actually more like two towns, split east-west b
 
 ## Notable Individuals
 - Garrick [Principled 8th level Operator OCC]  
-- Theresa [Scrupulous 8th level Mystic OCC]  
-- Sherridan [Aberrant 7th level Techno-Wizard OCC]  
-- Blaine [Unprincipled 5th level Wilderness Scout OCC]  
-- McDermot [Scrupulous 6th level Robot Pilot OCC]
-- Olias [Anarchist 10th level Shifter OCC] 
-- Doc [Principled 9th level Merc Soldier: Medic OCC]
-- Sheriff [Unprincipled 8th level Crazy OCC]   
+- Charon [Aberrant 10th level Techno-Wizard OCC]   
 
 ## Notable Organizations
 
