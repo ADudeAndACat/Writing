@@ -9,10 +9,14 @@ The town of Charon's Crossing is actually more like two towns, split east-west b
 ## The River Styx  
 
 ## Notable Individuals
-- **Garrick** ==`Principled 8th level Operator OCC`== -- Gruff, but hard-working and talented engineer who takes care of the settlement's many repairs and construction projects.
-- **Charon** ==`Aberrant 10th level Ley Line Walker OCC`== -- Enigmatic and transactional ferryman that takes care of transport and protection across the river, among other mysterious things.  Ostensibly the founder and foundation of the community's functioning.
-- **Amaria** ==`Principled 9th level Mystic OCC`== -- The director of magical projects for the settlement, along with its supernatural protection and education.  She is kind and wise and patient, with a particular care for the children.
-- **Rex** ==`Unprincipled 8th level Shifter OCC`== -- A reclusive who lives at the fringes of the community, near the nexus and acts as something of a vanguard against extra-dimensional incursion and dangers.  The community regards him as suspicious and somewhat of a pariah.
+- Garrick [Principled 8th level Operator OCC]  
+- Theresa [Scrupulous 8th level Mystic OCC]  
+- Sherridan [Aberrant 7th level Techno-Wizard OCC]  
+- Blaine [Unprincipled 5th level Wilderness Scout OCC]  
+- McDermot [Scrupulous 6th level Robot Pilot OCC]
+- Olias [Anarchist 10th level Shifter OCC] 
+- Doc [Principled 9th level Merc Soldier: Medic OCC]
+- Sheriff [Unprincipled 8th level Crazy OCC]   
 
 ## Notable Organizations
 
